@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    background-color: #18A383;
+    box-sizing: border-box;
+}
+
+p{
+    font-style: normal;
+    font-weight: bold;
+}
+
+div {
+    background-color: azure;
+    text-align: center;
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+input, textarea{
+
+}
